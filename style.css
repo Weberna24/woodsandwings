@@ -69,7 +69,7 @@ html{
 .cover{
     width: 100%;
     height: 97vh;
-    background-image: url("/W&W/images/ww4.jpg");
+    background-image: url("images/ww4.jpg");
     background-size: contain;
     background-position: center;
 }
